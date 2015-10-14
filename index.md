@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 <img style="float: left; margin: 0px 15px 15px 0px;"
-src="https://cloud.githubusercontent.com/assets/14020037/10472636/7ae89ec8-71d7-11e5-9bf0-2fd24c2362b4.JPG" width="340" rotate(90) />
+src="https://cloud.githubusercontent.com/assets/14020037/10472907/e98910a8-71da-11e5-8f7c-8b0205eb0a2c.JPG" width="340" />
+
+https://cloud.githubusercontent.com/assets/14020037/10472907/e98910a8-71da-11e5-8f7c-8b0205eb0a2c.JPG
 
 I am an [NSF Graduate Fellow](https://www.nsfgrfp.org/) working in the [Parent lab](http://webpages.uidaho.edu/parentlab/Parent_lab/Parent_lab___Home.html) at the [University of Idaho's Bioinformatics and Computational Biology Program](http://www.uidaho.edu/cogs/bcb). 
 
