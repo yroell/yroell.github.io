@@ -2,10 +2,20 @@
 layout: default
 title: Home
 ---
-<img style="float: left; margin: 0px 15px 15px 0px;"
-src="https://cloud.githubusercontent.com/assets/14020037/10472907/e98910a8-71da-11e5-8f7c-8b0205eb0a2c.JPG" width="340" />
+**Snail Links**
 
-I am a graduate student working in the [Parent lab](http://webpages.uidaho.edu/parentlab/Parent_lab/Parent_lab___Home.html) at the [University of Idaho's Biology Program](http://www.uidaho.edu/sci/biology). 
+The first three websites can give some background information on snails. 
+[The Living World of Molluscs](http://molluscs.at/gastropoda/index.html)
+[Snail World](http://www.snail-world.com/)
+[All About Snails for Kids](http://www.kiddyhouse.com/Snails/)
 
-You can reach me by calling (573) 855-2278 or emailing yannik.roell@gmail.com.
+The next website has tons of information on the snails I study with references to great papers and a comprehensive list of species.
+[Galapagos Snails](https://galapagossnaillab.wordpress.com/)
 
+**People in the Lab**
+[Christine Parent](http://www.uidaho.edu/sci/biology/faculty/christine-parent), my advisor
+[Parent Lab](http://webpages.uidaho.edu/parentlab/Parent_lab/Parent_lab___Home.html), our lab website
+[Andy Kraemer](https://andrewckraemer.wordpress.com/), NSF postdoc
+Katie Peterson
+[Mason Linscott](http://mason-linscott.github.io/)
+John Kaiser
