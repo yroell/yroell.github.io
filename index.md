@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-<body>
-  <img class="bg" src="https://cloud.githubusercontent.com/assets/14020037/10536645/5d281802-73a1-11e5-9dda-63b110ae2afa.png" />
-</body>
+<img src="https://cloud.githubusercontent.com/assets/14020037/10536645/5d281802-73a1-11e5-9dda-63b110ae2afa.png" id="bg" alt="" />
 
 <img style="float: left; margin: 0px 15px 15px 0px;"
 src="https://cloud.githubusercontent.com/assets/14020037/10472907/e98910a8-71da-11e5-8f7c-8b0205eb0a2c.JPG" width="340" />
