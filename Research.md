@@ -11,6 +11,6 @@ title: Research
 
 My proposed efforts is linking morphological and physiological changes with environmental variation which would allow for the understanding of why an adaptation would arise and why a lineage has diversified. My research so far has been correlating the relationship of metabolic rate to shell morphology and environmental differences in endemic land snails of the Galapagos Islands.
 
-*Disclaimer: I know the photos represented are not of snails and my research but it is too hard to take photos of snails. Here are some of my favorite photos from the Galapagos.*
+*Disclaimer: I know the photos represented are not of snails but it is too hard to take photos of snails. Here are some of my favorite photos from the Galapagos.*
 
 
