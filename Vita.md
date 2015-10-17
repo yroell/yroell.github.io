@@ -3,13 +3,15 @@ layout: default
 title: Home
 ---
 
-<div style="text-align: left; margin: 0px 15px 15px 0px;"
+<image style="float: left; margin: 0px 15px 15px 0px;"
 src="https://cloud.githubusercontent.com/assets/14020037/10561118/3f2fabac-74d3-11e5-839a-95332e2103c5.JPG" width="340" />
 
-<div style="text-align: right; margin: 0px 15px 15px 0px;"
+<image style="float: right; margin: 0px 15px 15px 0px;"
 src="https://cloud.githubusercontent.com/assets/14020037/10561144/29acbe4a-74d4-11e5-95d7-ccffec09a3fc.JPG" width="340" />
 
-To download my CV, click [here](https://github.com/yroell/yroell.github.io/files/15514/YRoell_CV.pdf)
+
+
+*To download my CV, click [here](https://github.com/yroell/yroell.github.io/files/15514/YRoell_CV.pdf)*
 
 Otherwise, view the content of my CV on this page.
 
