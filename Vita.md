@@ -11,7 +11,7 @@ src="https://cloud.githubusercontent.com/assets/14020037/10561144/29acbe4a-74d4-
 
 
 
-*To download my CV, click [here](https://github.com/yroell/yroell.github.io/files/15514/YRoell_CV.pdf)*
+To download my CV, click [here](https://github.com/yroell/yroell.github.io/files/15514/YRoell_CV.pdf)
 
 Otherwise, view the content of my CV on this page.
 
