@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img style="float: left; left: 0px 15px 15px 0px;"
+<div style="text-align: left; margin: 0px 15px 15px 0px;"
 src="https://cloud.githubusercontent.com/assets/14020037/10561118/3f2fabac-74d3-11e5-839a-95332e2103c5.JPG" width="340" />
 
 <div style="text-align: right; margin: 0px 15px 15px 0px;"
