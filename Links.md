@@ -2,6 +2,10 @@
 layout: default
 title: Home
 ---
+
+<image style="float: left; margin: 0px 15px 15px 0px;"
+src="https://cloud.githubusercontent.com/assets/14020037/10561228/14086d94-74d6-11e5-9eba-7163768207f3.JPG" width="340" />
+
 **Snail Links**
 
 The first three websites can give some background information on snails. 
