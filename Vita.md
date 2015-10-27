@@ -7,7 +7,7 @@ title: Home
 src="https://cloud.githubusercontent.com/assets/14020037/10561118/3f2fabac-74d3-11e5-839a-95332e2103c5.JPG" width="340" />
 
 
-To download my CV, click [here](https://github.com/yroell/yroell.github.io/files/15514/YRoell_CV.pdf)
+To download my CV, click [here]({{ site.baseurl}}/images/YRoell_CV.pdf)
 
 Otherwise, view the content of my CV on this page.
 
