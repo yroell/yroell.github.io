@@ -23,6 +23,6 @@ The next website has tons of information on the snails I study with references t
 [Christine Parent](http://www.uidaho.edu/sci/biology/faculty/christine-parent), my advisor; 
 [Parent Lab](http://webpages.uidaho.edu/parentlab/Parent_lab/Parent_lab___Home.html), our lab website; 
 [Andy Kraemer](https://andrewckraemer.wordpress.com/), NSF postdoc; 
-Katie Peterson; 
+[Katie Peterson](http://katielynnpeterson.weebly.com/); 
 [Mason Linscott](http://mason-linscott.github.io/); 
-John Kaiser
+[John Kaiser](http://johnathankaiser.weebly.com/)
