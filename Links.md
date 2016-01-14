@@ -18,6 +18,17 @@ The next website has tons of information on the snails I study with references t
 
 [Galapagos Snails](https://galapagossnaillab.wordpress.com/)
 
+**Galapagos Links**
+
+The websites below give information on the Galapagos Islands.
+
+[Galapagos National Park](http://www.galapagospark.org/);
+[Charles Darwin Foundation](http://www.darwinfoundation.org/en/);
+[Galapagos Conservation Trust](http://galapagosconservation.org.uk/);
+[UNESCO World Heritage Centre](http://whc.unesco.org/en/list/1);
+[General Galapagos Information](https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands)
+
+
 **People in the Lab**
 
 [Christine Parent](http://www.uidaho.edu/sci/biology/faculty/christine-parent), my advisor; 
