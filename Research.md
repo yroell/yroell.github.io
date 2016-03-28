@@ -11,7 +11,7 @@ title: Research
 
 My proposed efforts is linking morphological and physiological changes with environmental variation which would allow for the understanding of why an adaptation would arise and why a lineage has diversified. My research so far has been correlating the relationship of metabolic rate to shell morphology and environmental differences in endemic land snails of the Galapagos Islands.
 
-*Disclaimer: I know the photos represented are not of snails but it is too hard to take photos of snails. Here are some of my favorite photos from the Galapagos and [check out this video](https://www.youtube.com/watch?v=WwUenFkAkG0) I made from cool things I saw. *
+*Disclaimer: I know the photos presented are not of snails but it is too hard to take photos of snails. This page has some of my favorite animal photos and a video I made on the cool things I saw while in the Galapagos. You can also watch this video on youtube by clicking [here](https://www.youtube.com/watch?v=WwUenFkAkG0).*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WwUenFkAkG0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WwUenFkAkG0" frameborder="0" allowfullscreen></iframe>
 
