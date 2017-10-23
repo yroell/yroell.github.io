@@ -2,6 +2,7 @@
 layout: default
 title: Research
 ---
+**PhD Research at Aarhus University**
 
 **Master's Research at the University of Idaho**
 
