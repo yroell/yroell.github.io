@@ -7,7 +7,7 @@ title: Research
 <img style="float: left; margin: 0px 5px 40px 0px;" src="https://cloud.githubusercontent.com/assets/14020037/10537515/30dbbb86-73a7-11e5-96a2-9ad4954dd854.JPG" width="145" />
 
 <img style="float: left; margin: 0px 15px 15px 0px;" src="https://cloud.githubusercontent.com/assets/14020037/10537562/79358326-73a7-11e5-964e-eeba9c46b990.JPG" width="160" />
-The goal of my Master's thesis was to understand how variation in habitat can promote species richness and trait diversity. The first objective of this project is to link how island ontogeny shapes the number of species found on islands. The second objective is to quantify the association between habitat features and variation in morphology and physiology of species. I am interested in using GIS techniques in biology to help with management decisions in conservation. To view my thesis, please click here.
+The goal of my Master's thesis was to understand how variation in habitat can promote species richness and trait diversity. The first objective of this project is to link how island ontogeny shapes the number of species found on islands. The second objective is to quantify the association between habitat features and variation in morphology and physiology of species. I am interested in using GIS techniques in biology to help with management decisions in conservation. To view my thesis, please click [here](https://github.com/yroell/yroell.github.io/files/1408579/Roell_thesis.pdf).
 
 **Species Richness**
 
