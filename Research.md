@@ -2,6 +2,9 @@
 layout: default
 title: Research
 ---
+
+**Master's Research**
+
 <img style="float: left; margin: 0px 15px 15px 0px;" src="https://cloud.githubusercontent.com/assets/14020037/10537429/99ceb93c-73a6-11e5-8057-4ab3f25d484a.JPG" width="595" />
 
 <img style="float: left; margin: 0px 5px 40px 0px;" src="https://cloud.githubusercontent.com/assets/14020037/10537515/30dbbb86-73a7-11e5-96a2-9ad4954dd854.JPG" width="145" />
