@@ -29,7 +29,7 @@ The websites below give information on the Galapagos Islands.
 [UNESCO World Heritage Centre](http://whc.unesco.org/en/list/1);
 [General Galapagos Information](https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands)
 
-**People in the Lab**
+**People in the Parent Lab**
 
 [Christine Parent](http://www.uidaho.edu/sci/biology/faculty/christine-parent), my advisor; 
 [Parent Lab](http://webpages.uidaho.edu/parentlab/Parent_lab/Parent_lab___Home.html), our lab website; 
