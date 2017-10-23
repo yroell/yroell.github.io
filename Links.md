@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 *The links below were useful websites that I found while working at the University of Idaho. As I start working more on my PhD, I will provide links that I find useful for my current work.*
 
 <image style="float: left; margin: 0px 15px 15px 0px;"
