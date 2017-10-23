@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+*The links below were useful websites that I found while working at the University of Idaho. As I start working more on my PhD, I will provide links that I find useful for my current work.*
+
 <image style="float: left; margin: 0px 15px 15px 0px;"
 src="https://cloud.githubusercontent.com/assets/14020037/10561228/14086d94-74d6-11e5-9eba-7163768207f3.JPG" width="340" />
 
