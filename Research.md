@@ -20,7 +20,10 @@ src="https://user-images.githubusercontent.com/14020037/31911169-0364cd72-b7fd-1
 
 To understand how trait diversity is linked to the habitat where species are found, a well-studied adaptive radiation of the Galapagos islands will be used. The endemic land snails of the genus *Naesiotus* represent the most species rich adaptive radiation of the Galapagos islands with over 60 species currently described. *Naesiotus* inhabits most islands in the Galapagos from lower elevations that are hot and arid to higher elevations that are cool and humid. Along this environmental gradient, these species exhibit diverse shell sizes and shapes. Although work in this system using phylogenetically-controlled analyses has identified a strong link between shell morphology and ecology, a thorough study of physiological variation within and among species is needed to identify the proximate mechanisms and ultimate causes responsible for ecological diversification. I am linking morphological and physiological changes with environmental variation which will help in understanding why an adaptation would arise and why a lineage has diversified. 
 
-*This page has some of my favorite animal photos and a video I made on the fascinating things I saw while in the Galapagos. You can also watch this video on youtube by clicking [here](https://www.youtube.com/watch?v=WwUenFkAkG0).*
+<img style="margin: 0px 0px 0px 20px;"
+src="https://user-images.githubusercontent.com/14020037/31911837-2fc4ca8c-b7ff-11e7-93db-fcda58e209d8.jpg" width="595" />
+
+*The word clouds above were generated from my chapters in my thesis. This page also has some of my favorite animal photos and a video I made on the fascinating things I saw while in the Galapagos. You can also watch this video on youtube by clicking [here](https://www.youtube.com/watch?v=WwUenFkAkG0).*
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WwUenFkAkG0" frameborder="0" allowfullscreen></iframe>
 
