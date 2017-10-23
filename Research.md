@@ -13,7 +13,7 @@ The goal of my Master's thesis was to understand how variation in habitat can pr
 
 By using the data available at the Charles Darwin Foundation Datazone, I can test the topographic complexity assumptions that are made in the General Dynamic Model (GDM) of Oceanic Island Biogeography. The assumption is that topographic complexity will follow a hump-shaped curve through an island's ontogeny. I am testing to see if this assumption is true in the Galapagos and if topographic complexity is incorporated into the model, which measure of complexity should be used. Since there are many different ways to measure topographic complexity, I want to know if there is a single measure that should be used to model all taxonomic groups in the Galapagos or if each taxonomic group has a different measure depending on how each group interacts with the landscape.
 
-<img style="margin: 40px 100px 0px 0px;"
+<img style="margin: 100px 5px 5px 0px;"
 src="https://user-images.githubusercontent.com/14020037/31911169-0364cd72-b7fd-11e7-99b0-cd41c3f306c2.jpg" width="595" />
 
 **Trait Diversity**
