@@ -4,7 +4,7 @@ title: Research
 ---
 **PhD Research at Aarhus University**
 
-For my PhD, I will be working on digital soil mapping in Denmark. My project will be embedded within Danish research and development project "ProvenanceDK". The aim is to characterize terroir-like regional entities by integrating soil properties with topographic and landform attributes together with information on climate variation across Denmark. The background for the project is that the Danish food sector is losing jobs and producers face a long-term trend of income problems. As I work more on this project, I will add more details of what my research entails.
+For my PhD, I will be working on digital soil mapping in Denmark. My project will be embedded within Danish research and development project "ProvenanceDK". The aim is to characterize terroir-like regional entities by integrating soil properties with topographic and landform attributes together with information on climate variation across Denmark. The background for the project is that the Danish food sector is losing jobs and producers face a long-term trend of income problems. As I develop my project further, I will add more details of what my research entails.
 
 **Master's Research at the University of Idaho**
 
