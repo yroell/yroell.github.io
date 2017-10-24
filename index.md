@@ -3,5 +3,5 @@ layout: default
 title: Home
 ---
 
-<img src="https://user-images.githubusercontent.com/14020037/31967125-32ad5c70-b8ca-11e7-934a-b49df8ac66e0.jpg" id="bg" alt="" />
+<img src="https://user-images.githubusercontent.com/14020037/31967363-ed466b80-b8ca-11e7-8eb3-d7ced2c66b2d.jpg" id="bg" alt="" />
 
