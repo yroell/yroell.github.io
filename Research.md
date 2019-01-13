@@ -16,7 +16,8 @@ The first part of my work is based on creating terrons. Terrons are defined as a
 src="https://user-images.githubusercontent.com/14020037/51086204-fb6d4200-1743-11e9-8a56-cf7d8ed6c54a.png" width="595" />
 
 As I develop my project further, I will add more details on the two other components.
-\n\n
+<br>
+<br>
 
 **Master's Research at the University of Idaho**
 
