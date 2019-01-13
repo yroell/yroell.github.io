@@ -4,7 +4,15 @@ title: Research
 ---
 **PhD Research at Aarhus University**
 
-For my PhD, I will be working on digital soil mapping in Denmark. My project will be embedded within Danish research and development project "ProvenanceDK". The aim is to characterize terroir-like regional entities by integrating soil properties with topographic and landform attributes together with information on climate variation across Denmark. The background for the project is that the Danish food sector is losing jobs and producers face a long-term trend of income problems. As I develop my project further, I will add more details of what my research entails.
+For my PhD, I am using digital soil mapping techniques to determine bio-physical regions in Denmark. My project is embedded within Danish research and development project "ProvenanceDK". The aim is to characterize terroir-like regional entities by integrating soil properties with topographic and landform attributes together with information on climate variation across Denmark. I am using machine learning, both supervised and unsupervised, with gridded and point data to characterize Denmark into different regions. 
+
+My work has three main components. The first is to combine soil, climate, and topography to generate physical regions that can be assessed for crop suitability or environmental risks. The second is to create a crop suitability map for winter wheat using random forest and compare to a previous winter wheat yield map based on a pedotransfer function. The third is to compare current spring barley yields to the productivity maps created in 1688 and 1844.
+
+<u>Terron Workflow</u>
+
+The first part of my work is based on creating terrons. Terrons are defined as areas similar in soil and landscape. There are two approaches to terron mapping. The first was proposed in 2005 by [Carré and McBratney](https://www.sciencedirect.com/science/article/pii/S0016706105001023?via%3Dihub), using soil profile data, and the second was by [Malone et al.](https://www.sciencedirect.com/science/article/pii/S2352009414000066) in 2014, using gridded data. My work is to develop a workflow that will automate terron class creation using gridded data.
+
+As I develop my project further, I will add more details of what my research entails.
 
 **Master's Research at the University of Idaho**
 
