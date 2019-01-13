@@ -17,6 +17,8 @@ src="https://user-images.githubusercontent.com/14020037/51086204-fb6d4200-1743-1
 
 As I develop my project further, I will add more details on the two other components.
 
+
+
 **Master's Research at the University of Idaho**
 
 <img style="float: left; margin: 0px 15px 15px 0px;" src="https://cloud.githubusercontent.com/assets/14020037/10537429/99ceb93c-73a6-11e5-8057-4ab3f25d484a.JPG" width="595" />
@@ -40,7 +42,7 @@ To understand how trait diversity is linked to the habitat where species are fou
 <img style="margin: 0px 0px 0px 20px;"
 src="https://user-images.githubusercontent.com/14020037/31912037-ea1b7b60-b7ff-11e7-8d9d-45236b6a0ead.jpg" width="595" />
 
-*The word clouds above were generated from my chapters in my thesis. This page also has some of my favorite animal photos and a video I made on the fascinating things I saw while in the Galapagos. You can also watch this video on youtube by clicking [here](https://www.youtube.com/watch?v=WwUenFkAkG0).*
+*The word clouds above were generated from my manuscripts and thesis chapters. This page also has some of my favorite animal photos and a video I made on the fascinating things I saw while in the Galapagos. You can also watch this video on youtube by clicking [here](https://www.youtube.com/watch?v=WwUenFkAkG0).*
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WwUenFkAkG0" frameborder="0" allowfullscreen></iframe>
 
