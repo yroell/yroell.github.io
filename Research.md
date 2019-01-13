@@ -13,7 +13,7 @@ My work has three main components. The first is to combine soil, climate, and to
 The first part of my work is based on creating terrons. Terrons are defined as areas similar in soil and landscape. There are two approaches to terron mapping. The first was proposed in 2005 by [Carré and McBratney](https://www.sciencedirect.com/science/article/pii/S0016706105001023?via%3Dihub), using soil profile data, and the second was by [Malone et al.](https://www.sciencedirect.com/science/article/pii/S2352009414000066) in 2014, using gridded data. My work is to develop a workflow that will automate terron class creation using gridded data. I will post my manuscript and code once it has been accepted.
 
 <img style="margin: 0px 0px 0px 20px;"
-src="https://user-images.githubusercontent.com/14020037/51086099-759cc700-1742-11e9-8d69-c7d1b22b70e1.png" width="595" />
+src="https://user-images.githubusercontent.com/14020037/51086192-b34e1f80-1743-11e9-9070-e6af7d5f4cd2.jpg" width="595" />
 
 As I develop my project further, I will add more details on the two other components.
 
