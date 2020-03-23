@@ -4,18 +4,20 @@ title: Research
 ---
 **PhD Research at Aarhus University**
 
-For my PhD, I am using digital soil mapping techniques to determine bio-physical regions in Denmark. My project is embedded within Danish research and development project "ProvenanceDK". The aim is to characterize terroir-like regional entities by integrating soil properties with topographic and landform attributes together with information on climate variation across Denmark. I am using machine learning, both supervised and unsupervised, with gridded and point data to characterize Denmark into different regions. 
-
-My work has three main components. The first is to combine soil, climate, and topography to generate physical regions that can be assessed for crop suitability or environmental risks. The second is to create a crop suitability map for winter wheat using random forest and compare to a previous winter wheat yield map based on a pedotransfer function. The third is to compare current spring barley yields to the productivity maps created in 1688 and 1844.
+For my PhD, I am using digital soil mapping techniques to determine bio-physical regions in Denmark. My project is embedded within the Danish research and development project "ProvenanceDK". The aim is to characterize terroir-like regional entities by integrating soil properties with topographic and landform attributes together with information on climate variation across Denmark. I am using machine learning, both supervised and unsupervised, with gridded and point data to characterize Denmark into different regions. My work so far has created a terron workflow and yield predictions for winter wheat. I am also working on making tree suitability maps and trying to predict historical crop, livestock, and population density using environmental variables.
 
 <u>Terron Workflow</u>
 
-The first part of my work is based on creating terrons. Terrons are defined as areas similar in soil and landscape. There are two approaches to terron mapping. The first was proposed in 2005 by [Carré and McBratney](https://www.sciencedirect.com/science/article/pii/S0016706105001023?via%3Dihub), using soil profile data, and the second was by [Malone et al.](https://www.sciencedirect.com/science/article/pii/S2352009414000066) in 2014, using gridded data. My work is to develop a workflow that will automate terron class creation using gridded data. I will post my manuscript and code once it has been accepted.
+The first part of my work created terrons. Terrons are defined as areas similar in soil and landscape. There are two approaches to terron mapping. The first was proposed in 2005 by [Carré and McBratney](https://www.sciencedirect.com/science/article/pii/S0016706105001023?via%3Dihub), using soil profile data, and the second was by [Malone et al.](https://www.sciencedirect.com/science/article/pii/S2352009414000066) in 2014, using gridded data. My work was to develop a workflow that will automate terron class creation using gridded data. The manuscript is now published and the code has been finalized. These can be viewed at my [github page](https://github.com/yroell/terron_workflow_code). A word cloud created from the publication has been uploaded.
 
 <img style="margin: 0px 0px 0px 20px;"
 src="https://user-images.githubusercontent.com/14020037/51086204-fb6d4200-1743-11e9-8a56-cf7d8ed6c54a.png" width="595" />
 
-As I develop my project further, I will add more details on the two other components.
+<u>Winter Wheat Predictions</u>
+
+The second part of my work used random forest with environmental variables to update the current winter yield prediction for Denmark. After the map was updated, the new map was compared to historical yield potential data from the 17th and 19th century to assess both the spatial and temporal agricultural trends. The manuscript is now [published]. A word cloud created from the publication has been uploaded.
+
+
 <br>
 <br>
 
@@ -26,7 +28,7 @@ As I develop my project further, I will add more details on the two other compon
 <img style="float: left; margin: 0px 5px 40px 0px;" src="https://cloud.githubusercontent.com/assets/14020037/10537515/30dbbb86-73a7-11e5-96a2-9ad4954dd854.JPG" width="145" /> 
 
 <img style="float: left; margin: 0px 15px 15px 0px;" src="https://cloud.githubusercontent.com/assets/14020037/10537562/79358326-73a7-11e5-964e-eeba9c46b990.JPG" width="160" />
-The goal of my Master's thesis was to understand how variation in habitat can promote species richness and trait diversity. The first objective of this project was to link how island ontogeny shapes the number of species found on islands. The second objective was to quantify the association between habitat features and variation in morphology and physiology of species. I am interested in using GIS techniques in biology to help with management decisions in conservation. To view my thesis, please click [here](https://github.com/yroell/yroell.github.io/files/1408579/Roell_thesis.pdf).
+The goal of my Master's thesis was to understand how variation in habitat can promote species richness and trait diversity. The first objective of this project was to link how island ontogeny shapes the number of species found on islands. The second objective was to quantify the association between habitat features and variation in morphology and physiology of species. I am interested in using GIS techniques in biology to help with management decisions in conservation. My thesis can be viewed [here](https://github.com/yroell/yroell.github.io/files/1408579/Roell_thesis.pdf).
 
 <u>Species Richness</u>
 
