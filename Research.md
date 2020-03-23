@@ -18,7 +18,7 @@ src="https://user-images.githubusercontent.com/14020037/77351033-8e890b00-6d3d-1
 The second part of my work used random forest with environmental variables to update the current winter yield prediction for Denmark. After the map was updated, the new map was compared to historical yield potential data from the 17th and 19th century to assess both the spatial and temporal agricultural trends. The manuscript is now [published](https://www.mdpi.com/2073-4395/10/3/395) and the journal is open access. A word cloud created from the publication has been uploaded.
 
 <img style="margin: 0px 0px 0px 20px;"
-src="https://user-images.githubusercontent.com/14020037/77351223-c5f7b780-6d3d-11ea-8cd4-ffb73dc6e60a.jpg" width="40" />
+src="https://user-images.githubusercontent.com/14020037/77351638-546c3900-6d3e-11ea-9dc8-15b64aac102e.jpg" width="595" />
 
 <br>
 <br>
