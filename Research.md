@@ -11,11 +11,14 @@ For my PhD, I am using digital soil mapping techniques to determine bio-physical
 The first part of my work created terrons. Terrons are defined as areas similar in soil and landscape. There are two approaches to terron mapping. The first was proposed in 2005 by [Carré and McBratney](https://www.sciencedirect.com/science/article/pii/S0016706105001023?via%3Dihub), using soil profile data, and the second was by [Malone et al.](https://www.sciencedirect.com/science/article/pii/S2352009414000066) in 2014, using gridded data. My work was to develop a workflow that will automate terron class creation using gridded data. The manuscript is now [published](https://www.sciencedirect.com/science/article/pii/S0098300419301402) and the code has been finalized. A pre-print of the publication and code can be viewed at my [github page](https://github.com/yroell/terron_workflow_code). A word cloud created from the publication has been uploaded.
 
 <img style="margin: 0px 0px 0px 20px;"
-src="https://user-images.githubusercontent.com/14020037/51086204-fb6d4200-1743-11e9-8a56-cf7d8ed6c54a.png" width="595" />
+src="https://user-images.githubusercontent.com/14020037/77351033-8e890b00-6d3d-11ea-8961-45656baee058.jpg" width="595" />
 
 <u>Winter Wheat Predictions</u>
 
 The second part of my work used random forest with environmental variables to update the current winter yield prediction for Denmark. After the map was updated, the new map was compared to historical yield potential data from the 17th and 19th century to assess both the spatial and temporal agricultural trends. The manuscript is now [published](https://www.mdpi.com/2073-4395/10/3/395) and the journal is open access. A word cloud created from the publication has been uploaded.
+
+<img style="margin: 0px 0px 0px 20px;"
+src="https://user-images.githubusercontent.com/14020037/77351033-8e890b00-6d3d-11ea-8961-45656baee058.jpg" width="595" />
 
 <br>
 <br>
